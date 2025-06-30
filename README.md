@@ -1,5 +1,8 @@
 # 📖 TextClarity 清晰文本助手  
-## ✨ 让网页文字告别发虚！  
+## ✨ 让网页文字告别发虚！ 
+### 🔗 其他链接  
+- 脚本源码：[GitHub 仓库](https://github.com/521-baby/ChaoXing-SuperSrarLearn)    
+- 如果有帮助到你<img src='https://github.com/521-baby/ChaoXing-SuperSrarLearn/blob/main/%E5%AD%A6%E4%B9%A0%E9%80%9A%E8%84%9A%E6%9C%AC.js' width='16px' /> 投喂渠道：[⚡爱发电](https://afdian.com/a/chunshu) or [微信赞赏](https://github.com/521-baby/521-baby/blob/main/DONATE.md) or [支付宝](https://github.com/521-baby/521-baby/blob/main/DONATE2.md)</del>
 ### 访客人数：
 <img src="https://count.kjchmc.cn/get/@TextClarity-Assistant?theme=asoul" alt="如果您无法看到此内容，请刷新页面。">  
 
@@ -16,7 +19,11 @@ Windows浏览器常遇文字模糊、颜色淡的问题，本脚本通过调节�
 [Tampermonkey](https://tampermonkey.net/)（Chrome/Edge）或    
 [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/)（Firefox）  
 #### 2. 安装脚本  
-- 点击[此处](https://greasyfork.org/zh-CN/scripts/539737-textclarity%E6%B8%85%E6%99%B0%E6%96%87%E6%9C%AC%E5%8A%A9%E6%89%8B)跳转安装，按提示确认即可  
+- 点击下方链接一键安装：  
+  [📥 安装 📖 TextClarity 清晰文本助手 油猴脚本](https://greasyfork.org/zh-CN/scripts/539737-textclarity%E6%B8%85%E6%99%B0%E6%96%87%E6%9C%AC%E5%8A%A9%E6%89%8B)
+  
+  [📥 安装 📖 TextClarity 清晰文本助手 脚本猫脚本](https://scriptcat.org/zh-CN/script-show-page/3638)
+- 浏览器会自动跳转至安装页面，点击 **安装** 即可完成
 
 ### 🎮 使用指南  
 ![屏幕截图 2025-06-17 234945.png](https://scriptcat.org/api/v2/resource/image/xzZAdDLWcacdWer5)
